@@ -1,0 +1,17 @@
+<resources>
+    <color name="primary">#1E293B</color>
+    <color name="primary_variant">#0F172A</color>
+    <color name="accent">#2563EB</color>
+    <color name="surface_bg">#F8FAFC</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+
+    <!-- Signal Strength Specification Colors -->
+    <color name="sig_excellent">#00FF00</color>
+    <color name="sig_good">#99FF00</color>
+    <color name="sig_fair">#FFFF00</color>
+    <color name="sig_poor">#FF9900</color>
+    <color name="sig_very_poor">#FF0000</color>
+    <color name="sig_none">#444444</color>
+</resources>

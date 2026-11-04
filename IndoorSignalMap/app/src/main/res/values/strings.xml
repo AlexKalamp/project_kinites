@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Indoor Signal Map</string>
+    <string name="floor_ground">Ισόγειο (Ground Floor)</string>
+    <string name="floor_first">1ος Όροφος (1st Floor)</string>
+    <string name="floor_second">2ος Όροφος (2nd Floor)</string>
+</resources>
